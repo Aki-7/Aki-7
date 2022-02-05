@@ -2,7 +2,7 @@
 
 **Tools that supports creative activities like engineering, designing, and so on**.
 
-\* keywords
+【 keywords 】
  - Developer Productivity
  - Continuous Integration and Delivery
  - Windowing System
