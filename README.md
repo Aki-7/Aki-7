@@ -22,16 +22,16 @@
 
 <p align="left">
   <a href="https://github.com/zigen-project/">
-    <img height="128px" width="434px" src="./image/zigen.png" style="border: 1px #ddd solid; border-radius: 4px"/>
+    <img height="118px" width="400px" src="./image/zigen.png" style="border: 1px #ddd solid; border-radius: 4px"/>
   </a>
   <a href="https://github.com/zigen-project/zigen">
-    <img alt="Stars" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zigen"/>
+    <img alt="zigen" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zigen"/>
   </a>
   <a href="https://github.com/zigen-project/zen">
-    <img alt="Stars" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zen"/>
+    <img alt="zen" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zen"/>
   </a>
   <a href="https://github.com/zigen-project/zmonitors">
-    <img alt="Stars" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zmonitors"/>
+    <img alt="zmonitors" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zmonitors"/>
   </a>
 </p>
 
