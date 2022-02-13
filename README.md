@@ -38,3 +38,9 @@
 ### Google Summer of Code
 
 ![https://github.com/jenkinsci/remoting-opentelemetry-plugin](https://github-readme-stats.vercel.app/api/pin/?username=jenkinsci&repo=remoting-opentelemetry-plugin)
+
+
+## Contacts
+
+[Linkedin](https://www.linkedin.com/in/akihiro-kiuchi-b6872b220/)
+[Gmail](aki.develop8128@gmail.com)
