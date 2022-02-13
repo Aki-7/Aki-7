@@ -42,6 +42,4 @@
 
 ## Contacts
 
-[Linkedin](https://www.linkedin.com/in/akihiro-kiuchi-b6872b220/)
-
-[Gmail](<mailto:aki.develop8128@gmail.com>)
+[Linkedin](https://www.linkedin.com/in/akihiro-kiuchi-b6872b220/) / [Gmail](<mailto:aki.develop8128@gmail.com>)
