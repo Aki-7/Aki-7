@@ -1,6 +1,6 @@
 ## My interests
 
-**Tools that supports creative activities like engineering, designing, and so on**.
+**Tools that support creative activities like engineering, designing, and so on**.
 
 【 keywords 】
  - Developer Productivity
