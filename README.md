@@ -7,13 +7,6 @@
  - Continuous Integration and Delivery
  - Windowing System
 
-## Stats
-
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aki-7&layout=compact&exclude_repo=LGTM-2018-11-25"/>
-  <img alt="Stars" height="150px" src="https://github-readme-stats.vercel.app/api?username=Aki-7&show_icons=true"/>
-</p>
-
 ## My Projects
 
 ### zigen
