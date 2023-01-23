@@ -4,8 +4,8 @@
 
 【 keywords 】
  - Developer Productivity
- - Continuous Integration and Delivery
  - Windowing System
+ - Continuous Integration and Delivery
 
 ## My Projects
 
@@ -21,6 +21,9 @@
     <img alt="zen" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zwin-project&repo=zen"/>
   </a>
 </p>
+
+- [Twitter @zwin_project](https://twitter.com/zwin_project)
+- [Website zwin.dev](https://zwin.dev)
 
 ### Google Summer of Code
 
