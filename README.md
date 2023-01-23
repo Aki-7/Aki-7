@@ -9,22 +9,16 @@
 
 ## My Projects
 
-### zigen
+### Zwin
 
-**Windowing system for VR** (Adopted by [未踏IT人材発掘・育成事業](https://www.ipa.go.jp/jinzai/mitou/2021/gaiyou_sd-2.html))
+**Windowing system for XR**
 
 <p align="left">
-  <a href="https://github.com/zigen-project/">
-    <img height="118px" width="400px" src="./image/zigen.png" style="border: 1px #ddd solid; border-radius: 4px"/>
-  </a>
   <a href="https://github.com/zigen-project/zigen">
-    <img alt="zigen" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zigen"/>
+    <img alt="zigen" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zwin-project&repo=zwin"/>
   </a>
   <a href="https://github.com/zigen-project/zen">
-    <img alt="zen" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zen"/>
-  </a>
-  <a href="https://github.com/zigen-project/zmonitors">
-    <img alt="zmonitors" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zigen-project&repo=zmonitors"/>
+    <img alt="zen" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zwin-project&repo=zen"/>
   </a>
 </p>
 
