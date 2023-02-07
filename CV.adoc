@@ -36,12 +36,12 @@ Development of testbeds adapted to diverse environments for investigation of LAN
 
 == Zwin: XR Windowing System
 
-https://github.com/zwin-project[image:https://img.shields.io/badge/-zwin--project-eee?logo=github&style=for-the-badge&logoColor=333[GitHub]]
 https://www.zwin.dev[image:https://img.shields.io/badge/-🔗 website-eee?logo=link&style=for-the-badge[homepage]]
+https://github.com/zwin-project[image:https://img.shields.io/badge/-zwin--project-eee?logo=github&style=for-the-badge&logoColor=333[GitHub]]
 https://twitter.com/zwin_project[image:https://img.shields.io/badge/-@zwin__project-eee?logo=twitter&style=for-the-badge[Twitter Follow]]
 https://www.youtube.com/@zwin_project[image:https://img.shields.io/badge/-Youtube-eee?logo=youtube&style=for-the-badge&logoColor=ff0000[youtube]]
 
-Skils:: C / C++ / Meson / CMake / OpenGL / OpenXR / Wayland / Windowing System / gRPC
+Launched Zwin, an OSS project to realize a windowing system in XR.
 
 Roll:: Jun 2021 - now : *Technical Lead / Project Lead*
 
@@ -53,6 +53,8 @@ Roll:: Jun 2021 - now : *Technical Lead / Project Lead*
 (https://www.ipa.go.jp/jinzai/mitou/2021/gaiyou_sd-2.html[2021, Mitou Program]),
 and awarded the title of honor "Super Creator" for outstanding progress during the program.
 
+Skils:: C / C++ / Meson / CMake / OpenGL / OpenXR / Wayland / Windowing System / gRPC
+
 Talks::
 * https://youtu.be/g_MvbwKp8Uk[MITOU DEMO DAY Day2] (Japanese only, 19 min)
 * https://www.youtube.com/live/ygleFityMWs?feature=share&t=1060[MITOU Night 2022] (Japanese only, 5 min)
@@ -62,13 +64,13 @@ Talks::
 https://www.jenkins.io/projects/gsoc/2021/projects/remoting-monitoring[image:https://img.shields.io/badge/-🔗 website-eee?logo=link&style=for-the-badge[homepage]]
 https://github.com/jenkinsci/remoting-opentelemetry-plugin[image:https://img.shields.io/badge/-GitHub-eee?logo=github&style=for-the-badge&logoColor=333[GitHub]]
 
-Skils:: Java / Maven / OpenTelemetry / Jenkins
-
 Roll:: Jun 2021 - Sep 2021 : *Google Summer of Code student contributor*
 
 * Selected as one of 1023 participants worldwide for a 10-week OSS development program and completed the program (https://summerofcode.withgoogle.com/[Google Summer of Code]).
 * Developed and released a Jenkins plugin as a maintainer to collect and send telemetry from the Jenkins remoting module using OpenTelemetry.
 * Collected and reviewed 42 technical issues and 28 user voices on the remoting system to identify common issues by examining JIRA tickets from the past two years and conducting a user survey.
+
+Skils:: Java / Maven / OpenTelemetry / Jenkins
 
 Talks::
 * https://www.cloudbees.com/videos/jenkins-remoting-monitoring-with-opentelemetry[DevOpsWorld 2021]
@@ -76,18 +78,17 @@ Talks::
 
 == Backend Engineer Internship @ Cookpad Inc.
 
-Skills:: Ruby on Rails / Docker / MySQL / Typescript / React
-
 Roll:: May 2019 - Nov 2020 : *Student internship*
 
 * Improved the efficiency of operators and developers by developing tools for them.
 * Reduced the time to build a Docker image from approximately 15 minutes to 7.5 minutes at best by optimizing the build process.
 
-== Frontend Engineer Internship @ Arithmer Inc.
+Skills:: Ruby on Rails / Docker / MySQL / Typescript / React
 
-Skills:: Vanilla JS / Typescript / React
+== Frontend Engineer Internship @ Arithmer Inc.
 
 Roll:: May 2019 - Nov 2020 : *Part-time developer*
 
 * Introduced React to the company and held a study session.
 
+Skills:: Vanilla JS / Typescript / React
