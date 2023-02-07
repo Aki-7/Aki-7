@@ -6,8 +6,15 @@ https://twitter.com/akihiro_kiuchi[image:https://img.shields.io/badge/-@akihiro_
 mailto:aki.develop8128@gmail.com[image:https://img.shields.io/badge/-aki.develop8128-eee?logo=gmail&style=for-the-badge[Gmail]]
 https://www.linkedin.com/in/akihiro-kiuchi-b6872b220/[image:https://img.shields.io/badge/-akihiro_kiuchi-eee?logo=linkedin&style=for-the-badge&logoColor=0077b5[Linkedin]]
 
-Current Status (Updated Feb 8, 2023)::
-Open to work 🤝
+[cols="1,1", options="header"]
+.Basic info
+|===
+|Current Status
+|Location
+
+|Open to work 🤝
+|Tokyo, Japan
+|===
 
 toc::[]
 
