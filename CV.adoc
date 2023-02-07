@@ -1,0 +1,93 @@
+= CV - Akihiro Kiuchi
+:toc: macro
+
+https://github.com/Aki-7[image:https://img.shields.io/badge/-Aki--7-eee?logo=github&style=for-the-badge&logoColor=333[GitHub]]
+https://twitter.com/akihiro_kiuchi[image:https://img.shields.io/badge/-@akihiro__kiuchi-eee?logo=twitter&style=for-the-badge[Twitter Follow]]
+mailto:aki.develop8128@gmail.com[image:https://img.shields.io/badge/-aki.develop8128-eee?logo=gmail&style=for-the-badge[Gmail]]
+https://www.linkedin.com/in/akihiro-kiuchi-b6872b220/[image:https://img.shields.io/badge/-akihiro_kiuchi-eee?logo=linkedin&style=for-the-badge&logoColor=0077b5[Linkedin]]
+
+Current Status (Updated Feb 8, 2023)::
+Open to work 🤝
+
+toc::[]
+
+= Education
+
+== Master of Information and Communication Engineering
+_Apr 2021 - Mar 2023 (anticipated)_
+
+GPA:: not evaluated yet
+
+Thesis:: The design and implementation of a windowing system for multi-context immersive environments.
+
+International conference::
+Akihiro Kiuchi, Taishi Eguchi, Jun Rekimoto, Manabu Tsukada, and Hiroshi Esaki. 2022. ZIGEN: A Windowing System Enabling Multitasking Among 3D and 2D Applications in Immersive Environments. In ACM SIGGRAPH 2022 Posters (SIGGRAPH '22). Association for Computing Machinery, New York, NY, USA, Article 34, 1–2. https://doi.org/10.1145/3532719.3543200
+
+== Bachelor of Information and Communication Engineering
+_Apr 2017 - Mar 2021_
+
+GPA:: 3.74 / 4.00
+footnote:[Calculated according to https://www.fulbright.jp/eng/index.html[Fulbright Japan] criteria, as my university does not provide an official GPA]
+
+Thesis::
+Development of testbeds adapted to diverse environments for investigation of LANs in distant locations.
+
+= Experience
+
+== Zwin: XR Windowing System
+
+https://github.com/zwin-project[image:https://img.shields.io/badge/-zwin--project-eee?logo=github&style=for-the-badge&logoColor=333[GitHub]]
+https://www.zwin.dev[image:https://img.shields.io/badge/-🔗 website-eee?logo=link&style=for-the-badge[homepage]]
+https://twitter.com/zwin_project[image:https://img.shields.io/badge/-@zwin__project-eee?logo=twitter&style=for-the-badge[Twitter Follow]]
+https://www.youtube.com/@zwin_project[image:https://img.shields.io/badge/-Youtube-eee?logo=youtube&style=for-the-badge&logoColor=ff0000[youtube]]
+
+Skils:: C / C++ / Meson / CMake / OpenGL / OpenXR / Wayland / Windowing System / gRPC
+
+Roll:: Jun 2021 - now : *Technical Lead / Project Lead*
+
+* Leading the technical part of the project, designing the overall code architecture, assigning development tasks, onboarding new members, forming a development culture and ensuring code quality through code reviews, and resolving technical issues.
+* Leading the OSS project, presenting the project vision, facilitating regular meetings, setting milestones, building a team, networking, and presenting externally.
+* Adopted as one of 8 groups for a government-funded 8-month development program
+(https://www.ipa.go.jp/jinzai/advanced/2022/gaiyou_hn-1.html[2022, Mitou Advanced Program]).
+* Adopted as one of 23 groups for a government-funded 9-month development program
+(https://www.ipa.go.jp/jinzai/mitou/2021/gaiyou_sd-2.html[2021, Mitou Program]),
+and awarded the title of honor "Super Creator" for outstanding progress during the program.
+
+Talks::
+* https://youtu.be/g_MvbwKp8Uk[MITOU DEMO DAY Day2] (Japanese only, 19 min)
+* https://www.youtube.com/live/ygleFityMWs?feature=share&t=1060[MITOU Night 2022] (Japanese only, 5 min)
+
+== Jenkins Remoting Monitoring (Google Summer of Code)
+
+https://www.jenkins.io/projects/gsoc/2021/projects/remoting-monitoring[image:https://img.shields.io/badge/-🔗 website-eee?logo=link&style=for-the-badge[homepage]]
+https://github.com/jenkinsci/remoting-opentelemetry-plugin[image:https://img.shields.io/badge/-GitHub-eee?logo=github&style=for-the-badge&logoColor=333[GitHub]]
+
+Skils:: Java / Maven / OpenTelemetry / Jenkins
+
+Roll:: Jun 2021 - Sep 2021 : *Google Summer of Code student contributor*
+
+* Selected as one of 1023 participants worldwide for a 10-week OSS development program and completed the program (https://summerofcode.withgoogle.com/[Google Summer of Code]).
+* Developed and released a Jenkins plugin as a maintainer to collect and send telemetry from the Jenkins remoting module using OpenTelemetry.
+* Collected and reviewed 42 technical issues and 28 user voices on the remoting system to identify common issues by examining JIRA tickets from the past two years and conducting a user survey.
+
+Talks::
+* https://www.cloudbees.com/videos/jenkins-remoting-monitoring-with-opentelemetry[DevOpsWorld 2021]
+* https://cloudbees.techmatrix.jp/jenkins-day-japan2021[Jenkins Day Japan] (No public archive)
+
+== Backend Engineer Internship @ Cookpad Inc.
+
+Skills:: Ruby on Rails / Docker / MySQL / Typescript / React
+
+Roll:: May 2019 - Nov 2020 : *Student internship*
+
+* Improved the efficiency of operators and developers by developing tools for them.
+* Reduced the time to build a Docker image from approximately 15 minutes to 7.5 minutes at best by optimizing the build process.
+
+== Frontend Engineer Internship @ Arithmer Inc.
+
+Skills:: Vanilla JS / Typescript / React
+
+Roll:: May 2019 - Nov 2020 : *Part-time developer*
+
+* Introduced React to the company and held a study session.
+
