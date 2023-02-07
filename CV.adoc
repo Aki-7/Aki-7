@@ -7,7 +7,6 @@ mailto:aki.develop8128@gmail.com[image:https://img.shields.io/badge/-aki.develop
 https://www.linkedin.com/in/akihiro-kiuchi-b6872b220/[image:https://img.shields.io/badge/-akihiro_kiuchi-eee?logo=linkedin&style=for-the-badge&logoColor=0077b5[Linkedin]]
 
 [cols="1,1", options="header"]
-.Basic info
 |===
 |Current Status
 |Location
