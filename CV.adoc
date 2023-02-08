@@ -93,7 +93,7 @@ Skills:: Ruby on Rails / Docker / MySQL / Typescript / React
 
 == Frontend Engineer Internship @ Arithmer Inc.
 
-Roll:: May 2019 - Nov 2020 : *Part-time developer*
+Roll:: Apr 2018 - Apr 2019 : *Part-time developer*
 
 * Introduced React to the company and held a study session.
 
