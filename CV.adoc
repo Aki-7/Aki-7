@@ -19,8 +19,11 @@ toc::[]
 
 = Education
 
+== Doctor of Information and Communication Engineering
+_Apr 2023 - now
+
 == Master of Information and Communication Engineering
-_Apr 2021 - Mar 2023 (anticipated)_
+_Apr 2021 - Mar 2023_
 
 GPA:: not evaluated yet
 
