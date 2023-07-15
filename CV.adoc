@@ -25,7 +25,8 @@ _Apr 2023 - now
 == Master of Information and Communication Engineering
 _Apr 2021 - Mar 2023_
 
-GPA:: not evaluated yet
+GPA:: 3.80 / 4.00
+footnote:[Calculated according to https://www.fulbright.jp/eng/index.html[Fulbright Japan] criteria, as my university does not provide an official GPA]
 
 Thesis:: The design and implementation of a windowing system for multi-context immersive environments.
 
