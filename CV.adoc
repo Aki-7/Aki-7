@@ -76,7 +76,7 @@ https://github.com/jenkinsci/remoting-opentelemetry-plugin[image:https://img.shi
 
 Roll:: Jun 2021 - Sep 2021 : *Google Summer of Code student contributor*
 
-* Selected as one of 1023 participants worldwide for a 10-week OSS development program and completed the program (https://summerofcode.withgoogle.com/[Google Summer of Code]).
+* Selected as one of 1286 participants worldwide for a 10-week OSS development program and completed the program (https://summerofcode.withgoogle.com/[Google Summer of Code]).
 * Developed and released a Jenkins plugin as a maintainer to collect and send telemetry from the Jenkins remoting module using OpenTelemetry.
 * Collected and reviewed 42 technical issues and 28 user voices on the remoting system to identify common issues by examining JIRA tickets from the past two years and conducting a user survey.
 
