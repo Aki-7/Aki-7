@@ -20,7 +20,10 @@ toc::[]
 = Education
 
 == Doctor of Information and Communication Engineering
-_Apr 2023 - now
+_Apr 2023 - now_
+
+=== Research Internship at the https://augmented-perception.org/[Augmented Perception Lab], Carnegie Mellon University
+_Oct 2023 - Apr 2024_
 
 == Master of Information and Communication Engineering
 _Apr 2021 - Mar 2023_
