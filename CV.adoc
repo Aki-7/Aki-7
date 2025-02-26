@@ -26,7 +26,8 @@ toc::[]
 
 == Co-founder and CTO @ ENIAQ Inc.
 
-* Co-founded ENIAQ Inc. and currently serve as CTO.
+Roll:: Apr 2024 - now : *Co-founder and CTO*
+
 * Leading technical and product development.
 
 = Education
