@@ -1,28 +1,44 @@
 = CV - Akihiro Kiuchi
 :toc: macro
+:doctype: book
 
 https://github.com/Aki-7[image:https://img.shields.io/badge/-Aki--7-eee?logo=github&style=for-the-badge&logoColor=333[GitHub]]
-https://twitter.com/akihiro_kiuchi[image:https://img.shields.io/badge/-@akihiro__kiuchi-eee?logo=twitter&style=for-the-badge[Twitter Follow]]
-mailto:aki.develop8128@gmail.com[image:https://img.shields.io/badge/-aki.develop8128-eee?logo=gmail&style=for-the-badge[Gmail]]
-https://www.linkedin.com/in/akihiro-kiuchi-b6872b220/[image:https://img.shields.io/badge/-akihiro_kiuchi-eee?logo=linkedin&style=for-the-badge&logoColor=0077b5[Linkedin]]
+https://twitter.com/akihiro_kiuchi[image:https://img.shields.io/badge/-@akihiro__kiuchi-eee?logo=X&logoColor=000&style=for-the-badge[Twitter Follow]]
+mailto:akihirorz@gmail.com[image:https://img.shields.io/badge/-Email-eee?logo=gmail&style=for-the-badge[Gmail]]
+https://www.linkedin.com/in/akihiro-kiuchi-b6872b220/[image:https://img.shields.io/badge/-LinkedIn-eee?logo=linkedin&style=for-the-badge&logoColor=0077b5[Linkedin]]
+
+== TL;DR
+
+I'm a CTO and co-founder of ENIAQ Inc. I'm leading the technical and product development of the company. I'm hiring for the team in Tokyo, Japan.
 
 [cols="1,1", options="header"]
 |===
 |Current Status
 |Location
 
-|Open to work 🤝
+|I'm hiring 🤝
 |Tokyo, Japan
 |===
 
 toc::[]
 
+= Professional Experience
+
+== Co-founder and CTO @ ENIAQ Inc.
+
+* Co-founded ENIAQ Inc. and currently serve as CTO.
+* Leading technical and product development.
+
 = Education
 
 == Doctor of Information and Communication Engineering
-_Apr 2023 - now_
 
-=== Research Internship at the https://augmented-perception.org/[Augmented Perception Lab], Carnegie Mellon University
+*The User Interface Research Group at the University of Tokyo, advised by Prof. Takeo Igarashi.*
+
+_Apr 2023 - now (On leave)_
+
+*Research Internship at the https://augmented-perception.org/[Augmented Perception Lab], Carnegie Mellon University*
+
 _Oct 2023 - Apr 2024_
 
 == Master of Information and Communication Engineering
@@ -45,7 +61,7 @@ footnote:[Calculated according to https://www.fulbright.jp/eng/index.html[Fulbri
 Thesis::
 Development of testbeds adapted to diverse environments for investigation of LANs in distant locations.
 
-= Experience
+= Projects & Internships
 
 == Zwin: XR Windowing System
 
@@ -56,7 +72,7 @@ https://www.youtube.com/@zwin_project[image:https://img.shields.io/badge/-Youtub
 
 Launched Zwin, an OSS project to realize a windowing system in XR.
 
-Roll:: Jun 2021 - now : *Technical Lead / Project Lead*
+Roll:: Jun 2021 - 2024 : *Technical Lead / Project Lead*
 
 * Leading the technical part of the project, designing the overall code architecture, assigning development tasks, onboarding new members, forming a development culture and ensuring code quality through code reviews, and resolving technical issues.
 * Leading the OSS project, presenting the project vision, facilitating regular meetings, setting milestones, building a team, networking, and presenting externally.
