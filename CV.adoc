@@ -24,7 +24,7 @@ toc::[]
 
 = Professional Experience
 
-== Co-founder and CTO @ ENIAQ Inc.
+== Co-founder and CTO @ https://eniaq.jp[ENIAQ Inc.]
 
 Roll:: Apr 2024 - now : *Co-founder and CTO*
 
