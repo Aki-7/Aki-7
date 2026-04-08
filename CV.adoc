@@ -33,17 +33,31 @@ Roll:: May 2024 - now : *Co-founder and CTO*
 = Education
 
 == Doctor of Information and Communication Engineering
+_Apr 2023 - May 2024 (On leave since May 2024)_ +
+The User Interface Research Group at the University of Tokyo, advised by Prof. Takeo Igarashi.
 
-*The User Interface Research Group at the University of Tokyo, advised by Prof. Takeo Igarashi.*
+TL;DR::
+*_New research area, international internship, three publications._* +
+Moved to HCI/AR research, presented a demo at SIGGRAPH Asia 2023, and completed a 6-month research internship at Carnegie Mellon University, resulting in two conference papers (CHI 2025, ISMAR 2024).
 
-_Apr 2023 - now (On leave)_
-
-*Research Internship at the https://augmented-perception.org/[Augmented Perception Lab], Carnegie Mellon University*
+=== Research Internship at the https://augmented-perception.org/[Augmented Perception Lab], Carnegie Mellon University*
 
 _Oct 2023 - Apr 2024_
 
+* Researched AR remote communication and mobile AR interaction, resulting in publications at CHI 2025 and ISMAR 2024.
+
+=== Publications
+
+* Akihiro Kiuchi, Jonathan Wieland, Takeo Igarashi, and David Lindlbauer. 2025. MiniMates: Miniature Avatars for AR Remote Meetings within Limited Physical Spaces. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). ACM, Article 708, 1–20. https://doi.org/10.1145/3706598.3714328
+* Jonathan Wieland, Hyunsung Cho, Sebastian Hubenschmid, Akihiro Kiuchi, Harald Reiterer, and David Lindlbauer. 2024. Push2AR: Enhancing Mobile List Interactions Using Augmented Reality. In IEEE International Symposium on Mixed and Augmented Reality (ISMAR '24). https://doi.org/10.1109/ISMAR62088.2024.00082
+* Akihiro Kiuchi, Anran Qi, Eve Mingxiao Li, Dávid Maruscsák, Christian Sandor, and Takeo Igarashi. 2023. PerfectFit: Custom-Fit Garment Design in Augmented Reality. In SIGGRAPH Asia 2023 XR (SA XR '23). ACM, 1–2. https://doi.org/10.1145/3610549.3614592
+
 == Master of Information and Communication Engineering
 _Apr 2021 - Mar 2023_
+
+TL;DR::
+*_OSS development and international programs._* +
+Led the Zwin open-source project and participated in Google Summer of Code (see <<Projects & Internships>>).
 
 GPA:: 3.80 / 4.00
 footnote:[Calculated according to https://www.fulbright.jp/eng/index.html[Fulbright Japan] criteria, as my university does not provide an official GPA]
@@ -55,6 +69,10 @@ Akihiro Kiuchi, Taishi Eguchi, Jun Rekimoto, Manabu Tsukada, and Hiroshi Esaki. 
 
 == Bachelor of Information and Communication Engineering
 _Apr 2017 - Mar 2021_
+
+TL;DR::
+*_Coursework and industry internships._* +
+Focused on academics while gaining hands-on experience through software engineering internships (see <<Projects & Internships>>).
 
 GPA:: 3.74 / 4.00
 footnote:[Calculated according to https://www.fulbright.jp/eng/index.html[Fulbright Japan] criteria, as my university does not provide an official GPA]
